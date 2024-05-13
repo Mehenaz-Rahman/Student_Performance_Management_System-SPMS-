@@ -2,5 +2,12 @@
 
 
 Faculty
+---------
 User Name: Faculty
 Password: 1234
+
+Student
+---------
+User Name: Student
+Password: 4321
+
